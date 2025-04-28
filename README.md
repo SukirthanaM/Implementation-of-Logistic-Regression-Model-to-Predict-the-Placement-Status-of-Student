@@ -96,7 +96,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/88cb02f0-d98e-4ace-8b99-486f160e728a)
+![image](https://github.com/user-attachments/assets/241892bf-1f05-4eaf-bff2-c27d18444ac1)
 ![image](https://github.com/user-attachments/assets/0384b301-5196-4b05-b644-ef33c5f9fad5)
 ![image](https://github.com/user-attachments/assets/6c6df437-ed23-4814-8790-9f420fd4a302)
 ![image](https://github.com/user-attachments/assets/a94841d5-5a68-463b-a4aa-44dca3b32e5a)
