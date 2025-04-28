@@ -41,6 +41,7 @@ RegisterNumber: 212224220112
 import pandas as pd
 import numpy as np
 df=pd.read_csv('Placement_Data.csv')
+print("Name: Sukirthana.M\nReg.no: 212224220112)
 df.head()
 
 df1=df.copy()
